@@ -10,8 +10,8 @@ body {
     color: white;
     display: flex;
     align-items: center;
-    font-weight: bold;
-    font-size: larger;
+    font-weight: bolder;
+    font-size: 35px;
   }
   
   .footer {
@@ -59,8 +59,8 @@ display: flex;
 }
 
 .container-cards{
+    flex-grow: 2;
     display: flex;
-    flex-direction: column;
 
 }
 .card{
